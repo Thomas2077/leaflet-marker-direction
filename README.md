@@ -1,4 +1,4 @@
-leaflet-marker-drection
+leaflet-marker-direction
 =============
 <br>
 Plugin for Leaflet to display the path and the direction of the marker <br>
