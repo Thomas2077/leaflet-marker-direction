@@ -16,13 +16,14 @@ Usage
 var map = L.map('map').setView([30.201479, 120.155908], 13);
 L.tileLayer(...).addTo(map);
 
+// your data
 var list = [ 
              {"lon":"120.15261","lat":"30.182835"},
              {"lon":"120.152431666667","lat":"30.1828733333333"},
              {"lon":"120.15239","lat":"30.182755"},
              {"lon":"120.152303333333","lat":"30.1826566666667"}
            ];
-        
+// iterate your data       
 for(var i in list){
     var img = new Image();
     img.src = './images/arrow3.png';
@@ -50,4 +51,4 @@ for(var i in list){
 *`labelFlag` whethe to display the text <br>
 *`labelColor` The color of the text <br>
 *`img`  Your custom maker <br>
-### upate
+### update history
