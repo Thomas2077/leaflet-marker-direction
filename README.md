@@ -3,7 +3,7 @@ leaflet-marker-direction
 <br>
 Plugin for Leaflet to display the path and the direction of the marker <br>
 
-Check out the [demo](https://jackzoushao.github.io/leaflet-marker-direction/examples/marker-direction.html)
+Check out the [demo](https://thomas2077.github.io/leaflet-marker-direction/examples/marker-direction.html)
 
 Leaflet versions
 -----
